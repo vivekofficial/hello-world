@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi People!
+vivek here, I like React.js and (Javascript thats what i made of!).
